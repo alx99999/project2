@@ -1,1 +1,2 @@
 git diff works in comparing
+see the result of diff in commits
